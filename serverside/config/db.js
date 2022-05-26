@@ -1,7 +1,7 @@
 
 import mongoose from "mongoose";
 const DB_URI =
-  "mongodb+srv://eleena:12345@cluster0.7rl6l.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+  "mongodb+srv://eleena:123@cluster0.7rl6l.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
 const connectToDb = () => {
   mongoose
     .connect(DB_URI, {

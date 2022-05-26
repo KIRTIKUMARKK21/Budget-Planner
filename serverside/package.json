@@ -9,7 +9,7 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "KIRTIKUMARKK21",
+  "author ": " KIRTIKUMARKK21",
   "license": "ISC",
   "dependencies": {
     "@heroku-cli/plugin-buildpacks": "^7.60.0",
