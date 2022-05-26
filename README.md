@@ -1,5 +1,5 @@
 
-# CodeJam Budget Planner
+# DevJam Budget Planner
 
 ## Introduction:
 
