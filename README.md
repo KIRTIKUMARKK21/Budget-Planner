@@ -23,8 +23,8 @@ Budget Planner not only helps users visualize their expenses, but it also keeps 
 ## Installation
 
 ```bash
-  git clone https://github.com/adityarai0705/Hack-36-frontend
-  cd SabkiDukaan
+  git clone https://github.com/KIRTIKUMARKK21/Budget-Planner
+  cd Budget-Planner
   npm install
 ```
 In the project directory, run
