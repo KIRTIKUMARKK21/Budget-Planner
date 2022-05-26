@@ -20,7 +20,7 @@ Table of Contents:
    * [screenshots](#screenshots)
 
 
-# Installation
+## Installation
 
 ```bash
   git clone https://github.com/adityarai0705/Hack-36-frontend
@@ -52,7 +52,7 @@ Your app is ready to be deployed!
 
 See the section about deployment for more information.    
 
-# Tech Stack
+## Tech Stack
 
 1. MERN
 2. Material UI
@@ -63,7 +63,7 @@ See the section about deployment for more information.
 7. MatplotLib
 8. MongoDB
 
-# Preview
+## Preview
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
@@ -71,12 +71,12 @@ See the section about deployment for more information.
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-# 🔗 Website Link
+## 🔗 Website Link
 [Budget Planner website](https://katherinempeterson.com/)
 
 
 
-# Presentation link
+## Presentation link
 [presentaion link](https://github.com/matiassingers/awesome-readme)
 
 
