@@ -1,16 +1,16 @@
 
 # CodeJam Budget Planner
 
-Introduction:
-=============
+## Introduction:
+================
 We created a website that allows users to track their earnings, expenses, funds, savings, and investments.
 
 Many people struggle to keep their savings and expenses in check. Budget Planner provides users with a comprehensive visual perspective of their spending habits, allowing them to easily decide, modify, and maintain their spending.
 
 Budget Planner not only helps users visualize their expenses, but it also keeps them up to date on what's going on with the stocks they own and predicts future prices, allowing them to maximize their profit in the market.
 
-Table of Contents:
-==================
+## Table of Contents:
+=====================
 <!--ts-->
    * [Installation](#installation)
    * [Tech Stack](#tech-stack)
