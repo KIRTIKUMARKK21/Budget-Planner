@@ -81,10 +81,9 @@ See the section about deployment for more information.
 
 
 
-Authors:
-========
-Team Name: Pegasus
+## Authors:
 
+Team Name: Pegasus
 - [Aditya Raj Rai](https://github.com/adityarai0705)
 - [Kirti Kumar](https://github.com/KIRTIKUMARKK21)
 - [Eleena Sarah Mathew](https://github.com/eleensmathew)
