@@ -125,20 +125,23 @@ See the section about deployment for more information.
 
 ## Preview
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot](/screenshots/bp1.jpeg)
+![Screenshot](/screenshots/bp2.jpeg)
+![Screenshot](/screenshots/bp3.jpeg)
+![Screenshot](/screenshots/bp4.jpeg)
+![Screenshot](/screenshots/bp5.jpeg)
+![Screenshot](/screenshots/bp6.jpeg)
+![Screenshot](/screenshots/bp7.jpeg)
+![Screenshot](/screenshots/bp8.jpeg)
 
 ## 🔗 Website Link
-[Budget Planner website](https://katherinempeterson.com/)
+[Budget Planner website](https://stirring-raindrop-68250e.netlify.app/)
 
-
+## 🔗 Video Link
+[Budget Planner video](https://youtu.be/Sdk6hAVSuWY)
 
 ## Presentation link
-[presentation link](https://github.com/matiassingers/awesome-readme)
-
+[presentation link](https://www.canva.com/design/DAFBz6nx5q0/9SG9Sgc8UMa-IebL0H0fRw/view?utm_content=DAFBz6nx5q0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 ## Authors:
