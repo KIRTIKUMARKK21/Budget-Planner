@@ -1,6 +1,6 @@
 # DevJam Budget Planner
 ## The Last Budget Planner, Ever
-updated read
+###This project won 3rd prize in DevJam
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
